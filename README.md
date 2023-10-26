@@ -15,8 +15,7 @@ Here is how the project is organized:
 - `UI/`: Contains the code for the UI website
 - `server/`: Contains the Python Flask server code
 - `model/`: Contains the Jupyter Notebook for model building
-- `google_image_scrapping/`: Contains the code to scrape Google for images
-- `images_dataset/`: The dataset used for training our model
+- `images_dataset/`: The dataset used for training our model. (I haven't uploaded it on Github for privacy concerns)
 
 ## Technologies Used
 
