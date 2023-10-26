@@ -1,3 +1,4 @@
+![Project Logo](https://path/to/your/image.jpg)
 # Data Science and Machine Learning Project: Family Person Classification
 
 ## Introduction
